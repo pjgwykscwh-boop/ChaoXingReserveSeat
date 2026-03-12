@@ -2,7 +2,7 @@
     "reserve": [
         {"username": "13145228335",
         "password": "221holmes",
-        "time": ["21:00","22:00"],
+        "time": ["20:00","21:00"],
         "roomid":"2399",
         "seatid":["004"],
         "daysofweek": ["Monday" , "Tuesday", "Wednesday", "Thursday", "Friday"]
